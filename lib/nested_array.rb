@@ -37,7 +37,7 @@ def sorted_matrix
     
     
     ]
-    return array.sort
+    return array.sort_matrix
   
 end
 
