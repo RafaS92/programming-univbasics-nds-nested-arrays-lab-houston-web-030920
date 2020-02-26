@@ -18,8 +18,9 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
   array = [
-    ORGANIC_PRODUCE,
-    CONVENTIONAL_PRODUCE
+    CONVENTIONAL_PRODUCE,
+    ORGANIC_PRODUCE
+    
     
     ]
     return array
