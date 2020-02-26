@@ -18,7 +18,7 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
 shelf =[
-  ORGANIC_PRODUCE[ ]
+  ORGANIC_PRODUCE[ ],
   CONVENTIONAL_PRODUCE[ ]
   ]
 end
