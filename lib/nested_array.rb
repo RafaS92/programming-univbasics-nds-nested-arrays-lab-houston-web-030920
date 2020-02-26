@@ -16,7 +16,7 @@ CONVENTIONAL_PRODUCE = [
   "Eggplant"
 ]
 
-def assembled_matrix
+def assembled_matrix(ORGANIC_PRODUCE,CONVENTIONAL_PRODUCE)
 shelf =[
   ORGANIC_PRODUCE[ ],
   CONVENTIONAL_PRODUCE[ ]
