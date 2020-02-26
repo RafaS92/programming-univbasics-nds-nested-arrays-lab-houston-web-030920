@@ -16,11 +16,8 @@ CONVENTIONAL_PRODUCE = [
   "Eggplant"
 ]
 
-def assembled_matrix(ORGANIC_PRODUCE,CONVENTIONAL_PRODUCE)
-shelf =[
-  ORGANIC_PRODUCE[ ],
-  CONVENTIONAL_PRODUCE[ ]
-  ]
+def assembled_matrix
+  
 end
 
 def sorted_matrix
