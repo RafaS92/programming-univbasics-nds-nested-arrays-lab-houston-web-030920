@@ -23,7 +23,7 @@ def assembled_matrix
     
     
     ]
-    
+    return array.sort
   
 end
 
